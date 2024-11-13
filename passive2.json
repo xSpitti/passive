@@ -38,13 +38,13 @@
 }
 
 ]},
-{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP_Aberrant.Achatina_Character_BP_Aberrant'", 
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Arthropluera/Arthro_Character_BP.Arthro_Character_BP'", 
 "produces":[
 {
-"intervalSeconds": 60.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
-"Blueprint'/Game/PrimalEarth/Dinos/Achatina/PrimalItemResource_SnailPaste.PrimalItemResource_SnailPaste'"
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Chitin.PrimalItemResource_Chitin'"
 ],
 "alternateItems": [
 
@@ -55,7 +55,7 @@
 "intervalSeconds": 3600.00,
 "alternateItemChance": 0.00,
 "items": [
-"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic'"
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_BugRepellant.PrimalItemConsumable_BugRepellant'"
 ],
 "alternateItems": [
 
