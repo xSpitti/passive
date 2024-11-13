@@ -27,7 +27,7 @@
 }
 ,
 {
-"intervalSeconds": 3600.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic'"
