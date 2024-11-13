@@ -91,13 +91,13 @@
 }
 
 ]},
-{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Tusoteuthis/Tusoteuthis_Character_BP.Tusoteuthis_Character_BP'", 
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Direbear/Direbear_Character_BP.Direbear_Character_BP'", 
 "produces":[
 {
-"intervalSeconds": 240.00,
+"intervalSeconds": 120.00,
 "alternateItemChance": 0.00,
 "items": [
-"Blueprint'/Game/PrimalEarth/Dinos/Tusoteuthis/PrimalItemResource_SquidOil.PrimalItemResource_SquidOil'"
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Honey.PrimalItemConsumable_Honey'"
 ],
 "alternateItems": [
 
@@ -211,7 +211,7 @@
 {"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Archaeopteryx/Archa_Character_BP.Archa_Character_BP'", 
 "produces":[
 {
-"intervalSeconds": 300.00,
+"intervalSeconds": 60.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Sap.PrimalItemResource_Sap'"
