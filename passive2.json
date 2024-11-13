@@ -3,7 +3,7 @@
 "produces":[
 {
 "intervalSeconds": 60.00,
-"alternateItemChance": 0.00,
+"alternateItemChance": 0.01,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
 ],
